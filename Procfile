@@ -1,1 +1,1 @@
-web: gunicorn wecare247.wsgi --log-file -
+web: gunicorn 'wecare247.wsgi'
