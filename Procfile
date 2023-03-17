@@ -1,0 +1,1 @@
+web: gunicorn wecare247.wsgi --log-file -
